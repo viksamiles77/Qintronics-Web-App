@@ -1,1 +1,1 @@
-This is web app for selling tech stuff
+# This is Qintronics, an online store selling electronics.
